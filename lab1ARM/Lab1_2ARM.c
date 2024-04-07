@@ -1,4 +1,4 @@
-/*int i=0;
+int i=0;
 void main() {
    GPIO_Digital_Output(&GPIOD_BASE, _GPIO_PINMASK_ALL );
    GPIO_Digital_Output(&GPIOE_BASE, _GPIO_PINMASK_ALL );
@@ -28,4 +28,4 @@ void main() {
     Delay_ms(100);
    }
    }
-}*/
+}
